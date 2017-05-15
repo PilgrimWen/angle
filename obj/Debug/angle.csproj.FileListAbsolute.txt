@@ -1,0 +1,12 @@
+F:\C#项目\angle\angle\bin\Debug\angle.exe.config
+F:\C#项目\angle\angle\bin\Debug\angle.exe
+F:\C#项目\angle\angle\bin\Debug\angle.pdb
+F:\C#项目\angle\angle\obj\Debug\angle.csprojResolveAssemblyReference.cache
+F:\C#项目\angle\angle\obj\Debug\angle.exe
+F:\C#项目\angle\angle\obj\Debug\angle.pdb
+E:\angle\angle\bin\Debug\angle.exe.config
+E:\angle\angle\obj\Debug\angle.exe
+E:\angle\angle\obj\Debug\angle.pdb
+E:\angle\angle\bin\Debug\angle.exe
+E:\angle\angle\bin\Debug\angle.pdb
+E:\angle\angle\obj\Debug\angle.csprojResolveAssemblyReference.cache
